@@ -1,6 +1,6 @@
 '''
 
-                           WAP to find the roots of a quadratic equation '''
+                           WAP to check the prime number  '''
 
 num = int(input("Enter a number: "))
 
